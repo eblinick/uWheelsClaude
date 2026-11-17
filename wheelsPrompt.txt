@@ -1,0 +1,38 @@
+I want to re-create and re-design an existing web page using html, css and javascript. 
+the url is: https://www.ultimatewheels2u.ca/
+
+The car images are in wheels/img
+The one page site has  parts
+1. web slider that has images that do no start with 'deal_'
+2. Current deals : 3 cars with the images and descriptions of 3 cars
+. The images start with 'deals_'
+3. Services
+3.1. Image and description of: Lease, Buy or Finance
+3.2. image and description of: Warranty and Stuff
+4. Benefits: description of benefits
+5. Our Team: pictures and names of team members
+right now there are 6 team members, but Derek Kubiak and David Berk
+should be removed
+6. Testimonials: this is a slider type of testimonials
+The testimonials are in Google 
+7. Career: includes some descriptions and 2 random pictures
+8. Contact US: has map of business, address and contact form
+
+There is a menu on the left side that stays in location as the user
+scrolls up and down.
+
+To start with I would like to create a one page web site that
+0. creates either a side or top menu for the 8 sections
+1. creates a slider with the the images starting with '2027'
+2. recreates the 'Current Deals' parts
+3. generates new images for 'Buy,Lease or Finance' and 'Warranty and Stuff'
+based on the meaning of the services and descriptions. Adds the services
+section.
+4. creates placeholders for the remaining 4 sections.
+
+Please ask questions if you need clarifications or cannot access the url
+which is open in my Chrome browser.
+
+
+
+
